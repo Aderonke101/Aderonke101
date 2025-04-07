@@ -1,4 +1,6 @@
-![confi](https://github.com/user-attachments/assets/816be016-1219-4638-960a-f16ad058ce3f)
+![confi](https://github.com/user-attachments/assets/39e0def6-82dc-47fc-a8dd-16128aea0f19)
+
+
 
 
 
@@ -39,9 +41,7 @@ I love solving problems with data, designing beautiful websites, and turning ins
 
 ### 🔗 Connect with Me:
 
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/aderonkebakare101)  
-[![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://instagram.com/official_deedeebakes)  
-[![X](https://upload.wikimedia.org/wikipedia/commons/1/1d/X_Logo_2023.svg)](https://x.com/DataXRonke)    
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/aderonkebakare101)  [![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://instagram.com/official_deedeebakes) [![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://x.com/DataXRonke)  
 ---
 
 ---
@@ -85,6 +85,7 @@ I love solving problems with data, designing beautiful websites, and turning ins
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aderonke101&theme=merko)
 ---
+
 
 
 
